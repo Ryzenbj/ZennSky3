@@ -1,0 +1,2 @@
+# ShiroBOT-MD
+worker : node .
