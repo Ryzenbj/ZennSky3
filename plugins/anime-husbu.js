@@ -1,5 +1,5 @@
 let handler = async (m, { conn }) => {
-let hyzer = 'https://api.xteam.xyz/randomimage/husbu2?APIKEY=MIMINETBOT'
+let hyzer = 'https://api.lolhuman.xyz/api/random/husbu?apikey=Papah-Chan'
     conn.sendButtonImg(m.chat, hyzer, wm2, 'NEXT', 'HUSBU', '.husbu', m)
 }
 handler.help = ['husbu']
