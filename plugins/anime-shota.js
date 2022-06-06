@@ -1,9 +1,9 @@
 let handler = async (m, { conn }) => {
-let hyzer = 'https://api.xteam.xyz/randomimage/shota?APIKEY=MIMINETBOT'
-    conn.sendButtonImg(m.chat, hyzer, wm2, 'NEXT', 'SHOTA', '.shota', m)
+let hyzer = 'https://api.lolhuman.xyz/api/random/art?apikey=Papah-Chan'
+    conn.sendButtonImg(m.chat, hyzer, wm2, 'NEXT', 'NEXT', '.animeart', m)
 }
-handler.help = ['shota']
+handler.help = ['animeart']
 handler.tags = ['anime']
-handler.command = /^(shota)$/i
+handler.command = /^(animeart)$/i
 
 module.exports = handler
