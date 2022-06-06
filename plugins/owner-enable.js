@@ -131,13 +131,6 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
         throw false
       }
       break
-    case 'antispam':
-      isAll = true
-      if (!isOwner) {
-        global.dfail('owner', m, conn)
-        throw false
-      }
-      break
     case 'autoread':
       isAll = true
       if (!isOwner) {
@@ -171,7 +164,7 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
       break
     default:
       if (!/[01]/.test(command)) throw `
-┌〔 Daftar Opsi 〕${isOwner ? '\n├ antispam\n├ antitroli\n├ antibuggc\n├ antiviewonce\n├ autoread\n├ backup\n├ grouponly\n├ antivirtex\n├ jadibot\n├ nsfw\n├ public\n├ antilink\n├ mycontact' : ''}
+┌〔 Daftar Opsi 〕${isOwner ? '\n├ antitroli\n├ antibuggc\n├ antiviewonce\n├ autoread\n├ backup\n├ grouponly\n├ antivirtex\n├ jadibot\n├ nsfw\n├ public\n├ antilink\n├ mycontact' : ''}
 ├ autolevelup
 ├ antilink
 ├ welcome
