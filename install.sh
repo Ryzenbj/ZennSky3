@@ -3,6 +3,7 @@ pkg install git -y
 pkg install nodejs -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
+pkg install libwebp -y
 pkg install yarn
 git clone https://github.com/ilmanhdyt/ShiraoriBOT-Md
 cd ShiraoriBOT-Md
