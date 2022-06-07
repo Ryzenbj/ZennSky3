@@ -3,13 +3,13 @@ let handler = async (m, { conn, args }) => {
    response = args.join(' ')
   if (!args) throw 'Masukkan Parameter'
   m.reply(wait)
-  let res = `https://api.xteam.xyz/randomimage/jahy?apikey=MIMINETBOT`
-  conn.sendButtonImg(m.chat, res, wm2, 'NEXT', 'Jahy', '.jahy', m)
+  let res = `https://api.lolhuman.xyz/api/random/shota?apikey=Papah-Chan`
+  conn.sendButtonImg(m.chat, res, wm2, 'NEXT', 'Shota', '.shota', m)
 }
-handler.help = ['jahy'].map(v => v + ' ')
+handler.help = ['shota'].map(v => v + ' ')
 handler.tags = ['anime']
 
-handler.command = /^(jahy)$/i
+handler.command = /^(shota)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
