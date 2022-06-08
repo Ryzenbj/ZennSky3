@@ -416,7 +416,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                   "description": "Menampilkan Maker Text",
                   "rowId": `${_p}? text`
                 }, {
-                  "title": "│🧼│NSFW",
+                  "title": "│🔞│NSFW",
                   "description": "Menampilkan Menu NSFW",
                   "rowId": `${_p}? nsfw`
                 }, {
