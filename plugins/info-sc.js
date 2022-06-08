@@ -15,10 +15,11 @@ Nih Link Sc Ori Nya Dibawah :
 https://youtu.be/AXPzjQ5jxx8
 
 Sc Recodenya ?
-_*Soon*_
+_*PM Me↓*_
+wa.me/6282148864989
 
 _*Jangan Lupa Di Subscribe Channelnya Ya*_`
-conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
+conn.sendBut(m.chat, esce, wm3, 'Thanks ᴀ ɴ ᴅ ϟ ツ', 'thanks', m) 
 }
 handler.help = ['sc', 'sourcecode']
 handler.tags = ['info']
