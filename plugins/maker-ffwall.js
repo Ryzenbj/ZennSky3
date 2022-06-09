@@ -9,8 +9,8 @@ let handler = async (m, { conn, args }) => {
 handler.help = ['ffwall'].map(v => v + ' <teks>')
 handler.tags = ['sticker', 'internet', 'maker']
 handler.command = /^(ffwall)$/i
-handler.limit = true
-handler.register = true
+handler.limit = false
+handler.register = false
 
 module.exports = handler
 
