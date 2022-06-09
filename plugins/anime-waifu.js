@@ -10,6 +10,6 @@ handler.help = ['waifu']
 handler.tags = ['anime']
 handler.command = /^(waifu)$/i
 
-handler.limit = true
+handler.limit = false
 
 module.exports = handler
