@@ -4,7 +4,7 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴀ ɴ ᴅ ϟ ツ'
+global.nameowner = 'RenFunix ツ'
 global.numberowner = '6282148864989'
 global.instagram = 'https://instagram.com/renfunix'
 global.github = 'https://github.com/RenFunix'
@@ -26,7 +26,7 @@ global.zenzkey = '3599828239' //ganti jadi apikey lu kalau expired
 global.wm = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
 global.watermark = wm
 global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
-global.wm3 = '⫹⫺ ᴀ ɴ ᴅ ϟ ツ'
+global.wm3 = '⫹⫺ RenFunix ツ'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/2b376a3a16da00b2439e6.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© ᴀ ɴ ᴅ ϟ ツ'
+global.author = '© RenFunix ツ'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
