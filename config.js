@@ -31,11 +31,11 @@ global.htki = '––––––『'
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/2b376a3a16da00b2439e6.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*tunggu sedang di proses...*_'
+global.wait = '_*Please wait, Your request is being processed...*_'
 global.eror = '_*Server Error*_'
-global.benar = 'Benar ✅\n'
-global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang dibuat'
+global.benar = 'Right ✅\n'
+global.salah = 'Wrong ❌\n'
+global.stiker_wait = 'Stickers in progress'
 global.packname = '2022'
 global.author = '© RenFunix ツ'
 
@@ -81,7 +81,7 @@ global.APIKeys = { // APIKey Here
 }
 
 //=============『 RPG GAMES 』================== //
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 150 // The higher, The harder levelup
 global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
