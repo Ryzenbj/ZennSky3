@@ -23,6 +23,7 @@ handler.tags = ['rpg']
 handler.command = /^merampok$/
 handler.limit = true
 handler.group = true
+handler.premium = true
 
 module.exports = handler
 
