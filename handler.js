@@ -707,7 +707,7 @@ module.exports = {
                         } catch (e) {
                         } finally {
                             text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Someone just arrived!').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
-                                (chat.sBye || this.bye || conn.bye || 'Someone just leaving'))
+                                )chat.sBye || this.bye || conn.bye || 'Someone just leaving'))
                                 this.sendButtonImg(id, pp, text, "Group Message", "👋", "wkwk", null)
                                 }
                     }
