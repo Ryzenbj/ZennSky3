@@ -16,7 +16,7 @@ global.gopay = '082148864989'
 global.namebot = 'ShiroBot-MD'
 global.gc = 'https://chat.whatsapp.com/JMv6TBnYGCe7NngMhLdGmb'
 global.web = 'https://bit.ly/3GMoSW7' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.price1 = '_*Gopay = 082148864989*_\n_*Dana = 082148864989*_\n_*Contact me :*_\nwa.me/6282148864989'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
