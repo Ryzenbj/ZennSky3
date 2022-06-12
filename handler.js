@@ -755,7 +755,7 @@ global.dfail = (type, m, conn) => {
         admin: 'This command is only for group *Admin*!',
         botAdmin: 'Make bot as *Admin* to use this command!',
         unreg: 'Please register to use this feature by typing:\n\n*#reg name.age*\n\nExample: *#reg Ren.19*',
-        restrict: 'Fitur ini di *disable*!'
+        restrict: 'This feature is *disable*!'
     }[type]
     if (msg) return m.reply(msg)
 }
