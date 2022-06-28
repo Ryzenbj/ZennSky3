@@ -26,12 +26,12 @@ let info = `
 
 ◪ *Jika Minat Hubungi owner kami*
 ◪ *Atau Masuk Group Official Bot*
-_https://chat.whatsapp.com/JMv6TBnYGCe7NngMhLdGmb_
+_https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl_
 
 ▌│█║▌║▌║║▌║▌║█│▌
 ▌│█║▌║▌║║▌║▌║█│▌
 `.trim()
-conn.send2ButtonLoc(m.chat,await (await fetch(fla + 'Premium')).buffer(), info, `© Shiro Bot`, `Owner`, `.owner`, 'Payment','.', m)
+conn.send2ButtonLoc(m.chat,await (await fetch(fla + 'Premium')).buffer(), info, `© ZennSky Bot`, `Owner`, `.owner`, 'Payment','.', m)
 } 
 handler.help = ['premium']
 handler.tags = ['main']
