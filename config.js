@@ -1,43 +1,43 @@
 //=============『 Utama 』================== //
-global.owner = ['6282148864989'] 
+global.owner = ['6289510598381'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'RenFunix ツ'
-global.numberowner = '6282148864989'
-global.instagram = 'https://instagram.com/renfunix'
-global.github = 'https://github.com/RenFunix'
-global.dana = '082148864989'
-global.pulsa = '082148864989'
-global.gopay = '082148864989'
+global.nameowner = 'YogzKyz ツ'
+global.numberowner = '6289510598381'
+global.instagram = 'https://instagram.com/karfuanyogich'
+global.github = 'https://github.com/YogzKyz'
+global.dana = '089510598381'
+global.pulsa = '089510598381'
+global.gopay = '089510598381'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Elaina ESM'
-global.gc = 'https://chat.whatsapp.com/JMv6TBnYGCe7NngMhLdGmb'
-global.web = 'https://chat.whatsapp.com/JMv6TBnYGCe7NngMhLdGmb' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '_*Sewa Payment*_\n_*Gopay = 082148864989*_\n_*Dana = 082148864989*_\n_*Contact me :*_\nwa.me/6282148864989'
+global.namebot = 'ZennSky'
+global.gc = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'
+global.web = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = '_*Sewa Payment*_\n_*Gopay = 089510598381*_\n_*Dana = 089510598381*_\n_*Contact me :*_\nwa.me/6289510598381'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/1e33fe14e1bd9b1959f46.jpg' //ini juga ganti 
-global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
+global.fotonya1 = 'https://telegra.ph/file/2bd9bfefaf2241e8cadd4.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/2bd9bfefaf2241e8cadd4.jpg' //ini juga ganti 
+global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v 
 global.zenzkey = '3599828239' //ganti jadi apikey lu kalau expired
-global.wm = 'ᎬᏞᎪᏆNᎪ ᎬᏚᎷ'
+global.wm = 'ZennSky'
 global.watermark = wm
-global.wm2 = '                     「 ᎬᏞᎪᏆNᎪ ᎬᏚᎷ あ⁩ 」'
-global.wm3 = '⫹⫺ RenFunix ツ'
+global.wm2 = '                     「 ZennSky-Botz あ⁩ 」'
+global.wm3 = '⫹⫺ YogzKyz ツ'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/1e33fe14e1bd9b1959f46.jpg'
+global.media = 'https://telegra.ph/file/2bd9bfefaf2241e8cadd4.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*Please wait, Your request is being processed...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Right ✅\n'
 global.salah = 'Wrong ❌\n'
 global.stiker_wait = 'Stickers in progress'
-global.packname = '2022'
-global.author = '© RenFunix ツ'
+global.packname = 'ZennSky-Botz'
+global.author = '© YogzKyz ツ'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
